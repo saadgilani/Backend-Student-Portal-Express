@@ -1,0 +1,12 @@
+{
+    "db":{
+        "database": "StudentPortal",
+        "username": "postgres",
+        "password":"password",
+        "logging":false,
+        "host":"localhost",
+        "dialect":"postgres"
+    },"jwt":{
+        "secret":"6b2c44dbb5da0689b52dcf96474a19218e06736c3e898eb81f3e60b992df48a1e1b9f086594437e7c7ed7b94ff41d482aedab9ebc89b34d58241860d80d875d3" 
+      }
+}
